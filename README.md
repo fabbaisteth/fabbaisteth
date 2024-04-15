@@ -17,12 +17,19 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```txt
-Solidity     35 mins         ████████▒░░░░░░░░░░░░░░░░   33.07 %
-Text         23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-TypeScript   21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
-Bash         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-TOML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+```rust
+Total Time: 72 hrs 58 mins
+
+TypeScript   52 hrs 1 min    █████████████████▓░░░░░░░   70.17 %
+Rust         6 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+JSON         2 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+Solidity     2 hrs 31 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JavaScript   1 hr 39 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Git Config   1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Markdown     1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+CSS          1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+MDX          1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Other        1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
