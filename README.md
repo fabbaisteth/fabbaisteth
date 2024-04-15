@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+Solidity     35 mins         ████████▒░░░░░░░░░░░░░░░░   33.07 %
+Text         23 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+TypeScript   21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.10 %
+Bash         12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
+TOML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+```
+
 <!--END_SECTION:waka-->
