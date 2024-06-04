@@ -25,18 +25,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 124 hrs 35 mins
+Total Time: 131 hrs 12 mins
 
-TypeScript    89 hrs 54 mins  ██████████████████░░░░░░░   71.45 %
-Rust          6 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Solidity      6 hrs 40 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-JSON          5 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-JavaScript    3 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-CSS           3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Markdown      1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Git Config    1 hr 47 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Bash          1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Other         1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript    95 hrs 50 mins  ██████████████████░░░░░░░   72.35 %
+Rust          6 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+Solidity      6 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+JSON          6 hrs 14 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JavaScript    3 hrs 11 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+CSS           3 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Markdown      1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Git Config    1 hr 47 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Bash          1 hr 28 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other         1 hr 16 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
