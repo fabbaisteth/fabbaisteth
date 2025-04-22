@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building PLayback, a decentralized AI that uses your computer for you. 
+- 🔭 I’m currently working on building Playback, a decentralized AI that uses your computer for you. 
 - 🌱 I’m currently learning about AI, CV and GUI automation.
 - 👯 I’m looking to collaborate on Playback or working/researching within AI 
 - 🤔 I’m looking for help with foundational model training, MLLM training, DL/RL.
