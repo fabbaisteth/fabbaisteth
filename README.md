@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building my portfolio of Web3 projects. 
-- 🌱 I’m currently learning about ZK and AI.
-- 👯 I’m looking to collaborate on new and interesting projects, just hit me up. 
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
+- 🔭 I’m currently working on building PLayback, a decentralized AI that uses your computer for you. 
+- 🌱 I’m currently learning about AI, CV and GUI automation.
+- 👯 I’m looking to collaborate on Playback or working/researching within AI 
+- 🤔 I’m looking for help with foundational model training, MLLM training, DL/RL.
+- 💬 Ask me about anything. 
 - 📫 How to reach me: TG @fabbaist
 
 <!--
